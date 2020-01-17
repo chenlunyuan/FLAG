@@ -2,10 +2,10 @@
 
 个人技能：
 
-  Linux
+    Linux
   
-  C语言 ： 看懂redis源码
+    C语言 ： 看懂redis源码
   
-  English
+    English
   
-  书法
+    书法
